@@ -10,6 +10,8 @@ Dependencies: [m3u_to_playlist.py](https://github.com/Casvt/Plex-scripts/blob/ma
 
 Source: https://github.com/Casvt/Plex-scripts/tree/main/playlist_collection
 
+You need to download and configure the Python files with your Plex token, IP and port before run the script.
+
 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
 
 **[service.sh](https://github.com/rnlagos/bash/blob/main/services.sh)**. This simple script shows various services running in the server, I use it with conky. It needs a proper font that can read Unicode Symbols.
