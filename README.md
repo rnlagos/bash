@@ -6,7 +6,7 @@ The script automates the task, first it asks you for the folder path and then it
 
 Once we have the Collections we can delete the Playlist, the file *playlist_to_collection.py* has a command to do it but I have not been able to make it work, it gives me error. 
 
-Dependencies: [m3u_to_playlist.py](https://github.com/Casvt/Plex-scripts/blob/main/playlist_collection/m3u_to_playlist.py) and [playlist_to_collection.py](https://github.com/Casvt/Plex-scripts/blob/main/playlist_collection/playlist_to_collection.py)
+Dependencies: [m3u_to_playlist.py](https://github.com/Casvt/Plex-scripts/blob/main/playlist_collection/m3u_to_playlist.py), [playlist_to_collection.py](https://github.com/Casvt/Plex-scripts/blob/main/playlist_collection/playlist_to_collection.py) and [make_ruta.py](https://github.com/rnlagos/bash/blob/main/ruta.py).
 
 Source: https://github.com/Casvt/Plex-scripts/tree/main/playlist_collection
 
