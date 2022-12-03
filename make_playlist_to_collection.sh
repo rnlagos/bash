@@ -1,4 +1,4 @@
-k#!/bin/bash
+#!/bin/bash
 export FOLDER=folder
 export NOMBRE_DIR=nombre_dir
 read -p "Carpeta: " FOLDER
