@@ -13,12 +13,14 @@ Source: https://github.com/Casvt/Plex-scripts/tree/main/playlist_collection
 You need to download and configure the Python files above with your Plex token, IP and port before running the script.
 
 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
+## Bash script for Conky
 
 **[service.sh](https://github.com/rnlagos/bash/blob/main/services.sh)**. This simple script shows various services running in the server, I use it with conky. It needs a proper font that can read Unicode Symbols.
 
 ``${alignr}${font Hack Sans:bold:size=8}${color0}${execpi 1 ./services.sh}``
 
 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
+## Bash script for automate Public IP in Wireguard
 
 **[wireguard_config.sh](https://github.com/rnlagos/bash/blob/main/wireguard_config.sh)**. If you are using Wireguard with dynamic ip, you can run this script everytime your ISP change your public ip to adjust your Wireguard's endpoint config. 
 
