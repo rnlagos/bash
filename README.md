@@ -1,4 +1,4 @@
-# Bash script
+## Bash script for Plex
 
 **[make_playlist_to_collection.sh](https://github.com/rnlagos/bash/blob/main/make_playlist_to_collection.sh)**. This script is intended for compilations of music or videos that we have in folders within the Plex Library to organize them into Collections. The playlists are created by each user and only the user who created them has access by default and you have to share them (give access) with other users, the Collections, on the other hand, once created are accessible to all users and there is no need to share or give access. 
 
