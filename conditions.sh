@@ -1,6 +1,6 @@
 #!/bin/bash
 # Define the API URL for Open-Meteo with both daily and hourly parameters
-URL="https://api.open-meteo.com/v1/forecast?latitude=40.45006&longitude=-3.80910&daily=precipitation_sum,daylight_duration,sunset&hourly=temperature_2m,apparent_temperature,precipitation_probability,wind_speed_10m,wind_gusts_10m,relative_humidity_2m,weathercode&timezone=Europe%2FBerlin"
+URL="https://api.open-meteo.com/v1/forecast?latitude=42.45006&longitude=-3.40910&daily=precipitation_sum,daylight_duration,sunset&hourly=temperature_2m,apparent_temperature,precipitation_probability,wind_speed_10m,wind_gusts_10m,relative_humidity_2m,weathercode&timezone=Europe%2FBerlin"
 
 # Fetch data from Open-Meteo
 response=$(curl -s "$URL")
