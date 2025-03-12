@@ -28,7 +28,7 @@ You need to download and configure the Python files above with your Plex token, 
 - You need a proper font to see the icons, I use Hack Nerd Font [Nerd Fonts](https://www.nerdfonts.com/)
 - I use the free weather api from [Open Meteo](https://open-meteo.com/en/docs)
 
-(https://tasarte.app/images/conditions.png)
+![Example](https://tasarte.app/images/conditions.png)
 --- 
 ## Bash script for automate Public IP in Wireguard with dynamic IP
 
