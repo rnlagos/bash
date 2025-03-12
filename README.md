@@ -10,7 +10,7 @@ Dependencies: [m3u_to_playlist.py](https://github.com/Casvt/Plex-scripts/blob/ma
 
 Source: https://github.com/Casvt/Plex-scripts/tree/main/playlist_collection
 
-You need to download and configure the Python files above with your Plex token, IP and port before running the script.
+You need to download and configure the Python files above with your Plex token, IP and Port (32400) before running the script.
 
 --- 
 ## Bash script for Conky
