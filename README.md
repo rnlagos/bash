@@ -32,5 +32,5 @@ You need to download and configure the Python files above with your Plex token, 
 --- 
 ## Bash script for automate Public IP in Wireguard with dynamic IP
 
-**[wireguard_config.sh](https://github.com/rnlagos/bash/blob/main/wireguard_config.sh)**. If you are using Wireguard with dynamic ip, you can run this script everytime your ISP change your public ip to adjust your Wireguard's endpoint config. 
+**[wireguard_config.sh](https://github.com/rnlagos/bash/blob/main/wireguard_config.sh)**. If you are using Wireguard with dynamic ip, you can run and automate this script everytime your ISP change your public ip to adjust your Wireguard's endpoint config. 
 
